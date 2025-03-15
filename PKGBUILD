@@ -1,11 +1,11 @@
 pkgname=farsidic
 pkgver=1.0
-pkgdesc="A simple package that helps you to set your linux system DNS servers to several DNS servers"
-url="https://github.com/mohammadrostamiorg/dnsChanger"
+pkgdesc="A simple farsi dictionary"
+url="https://github.com/mohammadrostamiorg/farsidic"
 arch=('any')
 license=('MIT')
 maintainer="Mohammad Rosstami <mohammad.jayant@gmail.com>"
-source=("script.sh" "index.json")
+source=("script.sh" "https://raw.githubusercontent.com/MohammadRostamiorg/farsidic/refs/heads/master/index.json")
 depends=('bash' 'coreutils' 'jq')
 pkgrel=1
 sha256sums=("SKIP" "SKIP")
