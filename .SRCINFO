@@ -1,0 +1,16 @@
+pkgbase = farsidic
+	pkgdesc = A simple package that helps you to set your linux system DNS servers to several DNS servers
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/mohammadrostamiorg/dnsChanger
+	arch = any
+	license = MIT
+	depends = bash
+	depends = coreutils
+	depends = jq
+	source = script.sh
+	source = index.json
+	sha256sums = SKIP
+	sha256sums = SKIP
+
+pkgname = farsidic
