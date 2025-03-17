@@ -12,7 +12,7 @@ Farsidic is a lightweight command-line interface (CLI) tool designed to provide 
 
 Farsidic can be installed on various Linux distributions using different methods. Below are the installation instructions for Debian-based, Red Hat-based, and Arch-based systems.
 
-### Debian-Based Systems (e.g., Ubuntu, Debian)
+### Debian-Based Systems (e.g., Debian, Mint , Ubuntu)
 
 1. **Download the `.deb` package**:
    - Go to the [Releases](https://github.com/mohammadrostamiorg/farsidic/releases) page.
@@ -20,7 +20,7 @@ Farsidic can be installed on various Linux distributions using different methods
 
 2. **Install the package**:
    ```bash
-   sudo apt install farsidic-1.0.deb
+   sudo apt install farsidic-1.1-1.deb
    ```
 
 
@@ -32,10 +32,10 @@ Farsidic can be installed on various Linux distributions using different methods
 
 2. **Install the package**:
    ```bash
-   sudo dnf install farsidic-1.0.noarch.rpm
+   sudo dnf install farsidic-1.1-1.noarch.rpm
    ```
 
-### Arch-Based Systems (e.g., Arch Linux, Manjaro)
+### Arch-Based Systems (e.g., Arch Linux, Parchlinux , Manjaro)
 
 Farsidic is available in the Arch User Repository (AUR). You can install it using an AUR helper like `yay` or `paru`.
 
@@ -82,7 +82,6 @@ Output :
 "رشد دادن"
 "رشد یافتن"
 "ظاهر کردن فیلم"
-
 ```
 
 
